@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+*.egg-info/
+
+# Model files
+models/*.gguf
+
+# Data files
+*.pdf
+*.txt
+*.csv
+
+# Vector DB
+embeddings/
+*.pkl
+*.index
+
+# Debug files
+debug_*.txt
+
+# Streamlit state
+.streamlit/
+
+# OS junk
+.DS_Store
+Thumbs.db
