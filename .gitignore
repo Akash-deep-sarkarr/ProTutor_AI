@@ -13,7 +13,6 @@ models/*.gguf
 
 # Data files
 *.pdf
-*.txt
 *.csv
 
 # Vector DB

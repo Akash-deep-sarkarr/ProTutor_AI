@@ -23,7 +23,7 @@ if uploaded_file:
     vectorstore.build_vectorstore(chunks)
     st.sidebar.success("✅ Document uploaded and processed!")
 
-# Load stored document
+# Loading stored document
 if os.path.exists(DOC_PATH):
     with open(DOC_PATH, "r", encoding="utf-8") as f:
         doc_content = f.read()
