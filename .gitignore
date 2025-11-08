@@ -15,8 +15,6 @@ models/*.gguf
 *.pdf
 *.csv
 
-data/
-*.txt
 
 # Vector DB
 embeddings/
