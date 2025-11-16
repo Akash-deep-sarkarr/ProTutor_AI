@@ -41,5 +41,8 @@ streamlit run app.py
 
 
 PPT Presentation Link:
-https://drive.google.com/file/d/1EWEymZlgywh7NWQ2B0nSRWCf7e6D69iO/view?usp=sharing
+https://drive.google.com/file/d/14v8V_ELjbGtw8SIi1k8RyGSB2G7Z2ni4/view?usp=sharing
 
+
+Report Link:
+https://drive.google.com/file/d/1XqeNYPe2E7v_cm-u8WcW5zXGeBVw-EqU/view?usp=sharing
