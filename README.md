@@ -8,6 +8,7 @@ An offline AI Study Assistant that helps you learn better using:
 
 # Project Creator:
 AKASH DEEP SARKAR [24MTRDI01]
+
 SNEHALATHA SH [24PHDDI12]
 
 
