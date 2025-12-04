@@ -1,4 +1,4 @@
-# 🧠 LearnMate AI – AI Study Assistant
+# 🧠 ProTutor AI – AI Study Assistant
 
 An offline AI Study Assistant that helps you learn better using:
 ✅ Summarizer (brief/detailed)
@@ -7,11 +7,8 @@ An offline AI Study Assistant that helps you learn better using:
 
 
 # Project Creator:
-Suraj Ranjan kumar (24BDS082)
-Mohit (24BDS042)
-Dharmendra Yadav (24BDS019)
-Ravi Ranjan Bharti (24BDS065)
-Rupesh Kumar (24BDS069)
+AKASH DEEP SARKAR [24MTRDI01]
+SNEHALATHA SH [24PHDDI12]
 
 
 ### 🚀 Features:
@@ -38,11 +35,3 @@ Save the file to the `models/` directory like so:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-
-PPT Presentation Link:
-https://drive.google.com/file/d/14v8V_ELjbGtw8SIi1k8RyGSB2G7Z2ni4/view?usp=sharing
-
-
-Report Link:
-https://drive.google.com/file/d/1XqeNYPe2E7v_cm-u8WcW5zXGeBVw-EqU/view?usp=sharing

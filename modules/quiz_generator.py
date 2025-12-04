@@ -4,7 +4,14 @@ from modules.llama_model import generate_llm_response
 def generate_quiz_questions(content: str, count: int = 5) -> list:
     """
     Generate MCQs from content using strict format with example.
+    Truncates content to fit within the model's context window.
     """
+
+    # Truncate content to fit within context window (~2500 chars)
+    # leaving room for instructions, format examples, and output
+    max_content_chars = 2500
+    if len(content) > max_content_chars:
+        content = content[:max_content_chars] + "\n[... content truncated ...]"
 
     prompt = f"""
 You are an AI instructor that creates multiple choice questions to help students study.
